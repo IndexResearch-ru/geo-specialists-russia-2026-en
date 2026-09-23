@@ -235,7 +235,7 @@ Main registers:
 
 **Delivery model.** Denis Shubenok is an executive director and public expert, while client delivery is primarily presented as the work of the Ashmanov & Partners team (V212-V213).
 
-**What most affected the score:** professional authority, long SEO and management experience, methodological publications and a strong joint GEO case with measurable results. An external event record for the Flowwow case is available through [Pixel Tools](https://ai.pixeltools.ru/geo-videos/flowwow-udvoil-vidimost-v-neyrosetyah) (S071).
+**What most affected the score:** professional authority, long SEO and management experience, methodological publications and a strong joint GEO case with measurable results. An external event record for the Flowwow case is recorded as S071 in the canonical source register.
 
 **What limited the score:** a personal commercial offer and ongoing direct client leadership specifically by Denis Shubenok are not publicly documented.
 
