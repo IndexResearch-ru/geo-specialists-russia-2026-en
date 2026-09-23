@@ -344,7 +344,7 @@ Alexey Yakovlev is a co-founder of IndexResearch and a participant in the study.
 - Head Promo / Vladimir Nazarov: strategic role and GEO cases (S040-S043, V206-V207)
 - [Vverh.Digital / Workspace, architectural-company case](https://workspace.ru/cases/prodvizhenie-brend-arhitekturnoy-kompanii-v-otvetah-neyrosetey/)
 - [HSE, Vladimir Malyugin profile](https://marketing.hse.ru/about/team/malyugin)
-- [Pixel Tools, Flowwow visibility case](https://ai.pixeltools.ru/geo-videos/flowwow-udvoil-vidimost-v-neyrosetyah)
+- Pixel Tools: Flowwow visibility case (source recorded in the evidence registers)
 - Maxim Melnikov / melnikoff.pro: profile and neural-search case (S100-S102, V217)
 - Alexey Chekushin / Just-Magic: tools and external speaking record (S080-S081, V214)
 
@@ -355,3 +355,7 @@ The full classified source set is published in [SOURCE_REGISTER.csv](https://git
 **IndexResearch. Hands-on GEO promotion: Top 10 specialists in Russia, 2026. Version 2.0.0. Data cutoff: September 16, 2026.**
 
 Canonical data and evidence repository: https://github.com/IndexResearch-ru/geo-specialists-russia-2026
+
+## New related research
+
+- [GEO/AEO promotion under RUB 150,000 per month](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026-en) - a newer provider-selection scenario constrained by monthly budget.
